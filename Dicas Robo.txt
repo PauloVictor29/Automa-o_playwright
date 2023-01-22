@@ -1,0 +1,4 @@
+Caso não tenha instalado va no cmd do seu computador e instale: 
+pip install pandas
+pip install playwright
+playwright install //ira baixar os navegadores e suas versões
